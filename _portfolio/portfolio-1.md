@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Calculator (Python)"
+excerpt: "Developed a calculator application in Python capable of performing basic arithmetic operations, including addition, subtraction, multiplication, and division. Implemented user input handling and error checking to ensure accurate calculations and a smooth user experience<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
